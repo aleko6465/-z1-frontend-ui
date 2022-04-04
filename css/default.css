@@ -43,6 +43,10 @@ body {
 
 
 
+.text-white {
+    color: #fff;
+    text-decoration: none;
+}
 
 
 
@@ -56,11 +60,264 @@ section {
 
 
 
+         .block44 {
+         position: relative;
+         text-align: left;
+         background: #BD1C43;
+         padding: 36px;
+         color: fff;
+         width:100%;
+		min-height: 410px;
+         margin-top:66px;
+         margin-bottom:66px;
+		 
+
+         }
+		 
+		  .block45 {
+         position: relative;
+         text-align: left;
+         background: #FAF4EF;
+         padding: 36px;
+         color: #000;
+         width:100%;
+         margin-top:66px;
+         margin-bottom:66px;
+         }
+		 
+         .container12 {
+         position: relative;
+         text-align: left;
+         color: white;
+         width:100%;
+         padding:44px;
+         }
+		 
+		    .container16 {
+         position: relative;
+         text-align: left;
+
+         color: black;
+         width:100%;
+         padding-top:64px;
+         }
+		 
+		 
+		 		    .container17 {
+         position: relative;
+         text-align: left;
+  background: #FAF4EF;
+         color: black;
+         width:100%;
+         padding:44px;
+         }
+		 
+		 
+		 
+         .container33 {
+         position: relative;
+         text-align: left;
+         color: white;
+         width:100%;
+         }
+		 
+		    .container13 {
+         position: relative;
+         text-align: left;
+       
+         width:100%;
+         padding-top:100px;
+         padding:72px;
+         }
+		 
+		 
+         .container36 {
+         position: relative;
+         text-align: center;
+         color: black;
+         width:100%;
+         padding-top:93px;
+         padding-bottom:22px;
+         }
+		 
+		    .container37 {
+         position: relative;
+         text-align: left;
+         color: white;
+         width:100%;
+         padding-top:93px;
+         padding-bottom:72px;
+         }
+
+         .top-left {
+         position: absolute;
+         top: 28%;
+         left: 8%;
+         }
+		 
+		 .circulo-top {
+         position: absolute;
+         top: 0;
+         left: 28%;
+         }
+		 
+		 	 .circulo-bottom {
+         position: absolute;
+         bottom: 0;
+         left: 51%;
+         }
+
+         footer{
+         padding:40px;
+         margin-top:30px;
+         border-top:1px solid #dedede;
+         background-color: #000;
+         color: #fff
+         }
+		 
+		 
+		 
+		 
+		 
+		 
+		 div.titulo01  {
+  font-size: 4vw;
+}
+
+  		.titulo02 {
+    font-size: 1.6vw;
+  }
+  
+    		.titulo03 {
+    font-size: 2vw;
+  }
+  
+   		.titulo04 {
+    font-size: 1.2vw;
+  }
+  
+   		.titulo12 {
+    font-size: 0.8vw;
+	color: #7C2D44;
+
+  }
 
 
 
 
+@media screen and (min-width: 801px) {
+  div.titulo01  {
+    font-size: 4vw;
+  }
+  
+    		.titulo02 {
+    font-size: 1.2vw;
+  }
+  
+    		.titulo03 {
+    font-size: 1.8vw;
+  }
+  
+   		.titulo04 {
+    font-size: 1vw;
+  }
+  
+   		.titulo12 {
+    font-size: 0.7vw;
+	color: #7C2D44;
 
+  }
+
+}
+
+@media screen and (max-width: 800px) {
+  div.titulo01  {
+    font-size: 20px;
+  }
+  
+    		.titulo02 {
+    font-size: 20px;
+  }
+  
+    		.titulo03 {
+    font-size: 16px;
+  }
+  
+   		.titulo04 {
+    font-size: 12px;
+  }
+  
+   		.titulo12 {
+    font-size: 12px;
+	color: #7C2D44;
+
+  }
+
+}
+		 
+		 
+		 
+
+  
+
+
+.bottomMenu {
+    width: 100%;
+    height: 60px;
+    border-top: 1px solid #000;
+    position: fixed;
+    bottom: 0px;
+    z-index: 100;
+    opacity: 0;
+}
+
+
+
+#dodly {
+
+    z-index: 28;
+    font-size: 16px;
+
+    width: 182px;
+    height: 48px;
+ text-align: left;
+    color: #fff;
+background-color: #BD1C43;
+border-radius: 4px;
+padding:12px;
+padding-left:16px;
+ font-weight: 450;
+}
+	
+
+
+#godly {
+
+    z-index: 28;
+    font-size: 16px;
+
+    width: 182px;
+    height: 28px;
+ text-align: left;
+    color: #BD1C43;
+background: rgba(0,0,0,0);
+ font-weight: 550;
+
+}
+
+
+
+#godly1 {
+
+    z-index: 28;
+    font-size: 11px;
+text-transform: uppercase;
+ text-align: center;
+    color: #BD1C43;
+background: rgba(0,0,0,0);
+ font-weight: 550;
+
+}
 	
 	
 
