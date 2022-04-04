@@ -3,6 +3,7 @@
 body {
     background: FFF;
     background-repeat: repeat;
+	font-family: 'Space Grotesk';
 }
 
 
@@ -110,6 +111,7 @@ section {
          color: black;
          width:100%;
          padding:44px;
+		 min-height:310px;
          }
 		 
 		 
@@ -124,7 +126,7 @@ section {
 		    .container13 {
          position: relative;
          text-align: left;
-       
+         color: black;
          width:100%;
          padding-top:100px;
          padding:72px;
@@ -223,7 +225,7 @@ section {
   }
   
    		.titulo12 {
-    font-size: 0.7vw;
+    font-size: 1vw;
 	color: #7C2D44;
 
   }
@@ -256,7 +258,10 @@ section {
 }
 		 
 		 
-		 
+.mb-4		{
+
+	
+} 
 
   
 
@@ -302,7 +307,8 @@ padding-left:16px;
     color: #BD1C43;
 background: rgba(0,0,0,0);
  font-weight: 550;
-
+  position: absolute;
+         bottom: 12px;
 }
 
 
