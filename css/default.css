@@ -66,7 +66,7 @@ section {
          text-align: left;
          background: #BD1C43;
          padding: 36px;
-         color: fff;
+         color: white;
          width:100%;
 		min-height: 410px;
          margin-top:66px;
@@ -89,7 +89,7 @@ section {
          .container12 {
          position: relative;
          text-align: left;
-         color: white;
+   
          width:100%;
          padding:44px;
          }
@@ -203,6 +203,12 @@ section {
 	color: #7C2D44;
 
   }
+  
+     		.titulo18 {
+    font-size: 0.8vw;
+	color: #7C2D44;
+
+  }
 
 
 
@@ -226,6 +232,12 @@ section {
   
    		.titulo12 {
     font-size: 1vw;
+	color: #7C2D44;
+
+  }
+  
+     		.titulo18 {
+    font-size: 0.8vw;
 	color: #7C2D44;
 
   }
@@ -254,14 +266,16 @@ section {
 	color: #7C2D44;
 
   }
+  
+     		.titulo12 {
+    font-size: 12px;
+	color: #7C2D44;
+
+  }
 
 }
 		 
 		 
-.mb-4		{
-
-	
-} 
 
   
 
