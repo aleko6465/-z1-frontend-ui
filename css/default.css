@@ -1,0 +1,67 @@
+
+
+body {
+    background: FFF;
+    background-repeat: repeat;
+}
+
+
+.navbar-brand {
+    float: left;
+    height: 100px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+	
+}
+
+
+
+
+
+.navbar {
+    position: relative;
+    min-height: 33px;
+    margin: 30px 30px 10px 30px;
+	 background-color: #ffffff00;
+}
+
+
+
+
+
+
+
+.navbar-brand {
+    float: left;
+    height: 44px;
+    padding: 16px 16px;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+
+
+
+
+
+
+
+section {
+	padding-top:73px;  
+    padding-bottom:44px; 
+    min-height:calc(100% - 1px);
+}
+
+
+
+
+
+
+
+
+
+	
+	
+
+
